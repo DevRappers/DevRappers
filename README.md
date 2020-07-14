@@ -1,4 +1,5 @@
 ### Hi there 👋
+- DevRappers BLOG : <https://devrappers.dev/>
 
 <!--
 **DevRappers/DevRappers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
