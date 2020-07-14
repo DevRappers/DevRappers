@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. Front-end 개발자 이재준입니다. 👋
 - DevRappers BLOG : <https://devrappers.dev/>
 
 <!--
