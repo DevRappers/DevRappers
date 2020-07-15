@@ -2,7 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevRappers)](https://hits.seeyoufarm.com)
 
-- [DevRappers BLOG](<https://devrappers.dev/>)
+### About
+
+-  **Learning :** Full-Stack Development
+-  **Languages :** JavaScript, TypeScript, React, ReactNative
+-  **Hobbies :** HipHop, Fashion 
+- **[DevRappers BLOG]**(<https://devrappers.dev/>)
 
 ![DevRappers github stats](https://github-readme-stats.vercel.app/api?username=DevRappers&show_icons=true)
 
