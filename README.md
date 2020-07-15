@@ -6,7 +6,11 @@
 ### About
 
 -  **Learning :** Full-Stack Development
--  **Languages :** JavaScript, TypeScript, Node.js, React, ReactNative
+-  **Languages :** [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/devrappers/)](https://github.com/devrappers/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/devrappers/)](https://github.com/DevRappers/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/devrappers/)](https://github.com/devrappers/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/devrappers/)](https://github.com/devrappers/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/devrappers/)](https://github.com/devrappers/)
 -  **Hobbies :** HipHop, Fashion 
 -  **My Blog :** [DevRappers.dev](<https://devrappers.dev/>)
 
