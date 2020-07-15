@@ -7,7 +7,7 @@
 -  **Learning :** Full-Stack Development
 -  **Languages :** JavaScript, TypeScript, Node.js, React, ReactNative
 -  **Hobbies :** HipHop, Fashion 
-- **[DevRappers.dev] :** (<https://devrappers.dev/>)
+- **[DevRappers.dev](<https://devrappers.dev/>)**
 
 ![DevRappers github stats](https://github-readme-stats.vercel.app/api?username=DevRappers&show_icons=true)
 
