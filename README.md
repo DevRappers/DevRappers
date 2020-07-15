@@ -5,7 +5,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development
--  **Languages :** JavaScript, TypeScript, React, ReactNative
+-  **Languages :** JavaScript, TypeScript, Node.js, React, ReactNative
 -  **Hobbies :** HipHop, Fashion 
 - **[DevRappers BLOG]**(<https://devrappers.dev/>)
 
